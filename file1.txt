@@ -1,3 +1,4 @@
 hell o git
 second
 third - mybranch
+forth - mybranch
